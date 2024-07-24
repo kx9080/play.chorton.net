@@ -5,7 +5,7 @@ play.chorton.net is a server I run. I wanted to put up a file host that I could 
 ## Installing Fabric
 
 First you need to download Fabric
-Use this link: https://fabricmc.net/use/installer/
+Use this link: https://fabricmc.net/use/installer/ and click "Download For Windows"
 
 After downloading, double-click on the installer, under Minecraft Version pick 1.20.1.
 The loader version shouldn't matter so just stay on the default.
